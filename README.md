@@ -18,8 +18,14 @@ sends a notification whenever a stream goes live*
 
 ## Screenshots
 
-![alt text](https://github.com/shafergrytness/Discord-Bot-for-Twitch/blob/master/Screenshots/07-large.jpg)
+Bot usage
 
-![alt text](https://github.com/shafergrytness/Discord-Bot-for-Twitch/blob/master/Screenshots/05-large.jpg)
+![alt text](https://github.com/shafergrytness/Discord-Bot-for-Twitch/blob/master/Screenshots/07-large.jpg "Notification command")
 
-![alt text](https://github.com/shafergrytness/Discord-Bot-for-Twitch/blob/master/Screenshots/03-large.jpg)
+![alt text](https://github.com/shafergrytness/Discord-Bot-for-Twitch/blob/master/Screenshots/05-large.jpg "Upcoming command")
+
+![alt text](https://github.com/shafergrytness/Discord-Bot-for-Twitch/blob/master/Screenshots/03-large.jpg "Live command")
+
+Website
+
+![alt text](https://github.com/shafergrytness/Discord-Bot-for-Twitch/blob/master/Screenshots/website.png "Website")
