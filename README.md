@@ -15,3 +15,11 @@ returns 4 upcoming matches for input game
 sends a notification whenever a stream goes live*
 
 *Edit the list of streams using streams.txt
+
+## Screenshots
+
+![alt text](https://github.com/shafergrytness/Discord-Bot-for-Twitch/blob/master/Screenshots/07-large.jpg)
+
+![alt text](https://github.com/shafergrytness/Discord-Bot-for-Twitch/blob/master/Screenshots/05-large.jpg)
+
+![alt text](https://github.com/shafergrytness/Discord-Bot-for-Twitch/blob/master/Screenshots/03-large.jpg)
