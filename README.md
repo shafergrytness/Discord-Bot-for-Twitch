@@ -1,5 +1,5 @@
 # Discord-Bot-for-Twitch
-Also includes our website files. This project uses [PandaScore](https://developers.pandascore.co/) and [Discord's API](https://discordapp.com/developers/docs/intro) to post upcoming matches, stream statuses, and notifications in Discord. 
+Also includes our website files. This project uses [PandaScore](https://developers.pandascore.co/) and [Discord's API](https://discordapp.com/developers/docs/intro) to post stream statuses and notifications for Twitch.tv as well as upcoming tournament matches in Discord. 
 
 Notifications are set to check every 5 minutes by default (edit this delay in Notification.cs) and you may want to create a separate text channel in Discord if streams.txt becomes long.
 
